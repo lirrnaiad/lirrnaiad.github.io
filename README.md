@@ -57,7 +57,6 @@ Instead of opening it right away, you can open **index.html** with Google Chrome
 
 ## About Me
 ![about-me](https://github.com/lirrnaiad/weebpage/assets/99702949/41fc1b22-fc08-40b5-80c7-e2c713c50625)
-<p align = "center">
 This project contains a short "about me" section that introduces the "different parts" of me.
 At the time of writing this documentation (2 years later), I find it a bit cringe now but for the sake of preservation I'll keep it as is.
 
@@ -70,7 +69,7 @@ This carousel will auto-move after 5 seconds and move to the next image. <br>
 <br>
 
 ![carousel2](https://github.com/lirrnaiad/weebpage/assets/99702949/78ae8537-4d23-49ae-a5f2-238ad2905a7b)
-The second carousel at the bottom is a slide of the current seasonal anime at the time of creating this project (May 2022). <br>
+The second carousel at the bottom is a slide of the current seasonal anime at the time of creating this project. <br>
 <b>You can click on the images on both carousels and it will redirect to their respective MyAnimeList pages.</b>
 
 
