@@ -69,7 +69,7 @@ This carousel will auto-move after 5 seconds and move to the next image. <br>
 <br>
 
 ![carousel2](https://github.com/lirrnaiad/weebpage/assets/99702949/78ae8537-4d23-49ae-a5f2-238ad2905a7b)
-The second carousel at the bottom is a slide of the current seasonal anime at the time of creating this project. <br>
+The second carousel at the bottom is a slide of the seasonal anime that were airing at the time of creating this project. <br>
 <b>You can click on the images on both carousels and it will redirect to their respective MyAnimeList pages.</b>
 
 
