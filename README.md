@@ -58,34 +58,27 @@ Instead of opening it right away, you can open **index.html** with Google Chrome
 ## About Me
 ![about-me](https://github.com/lirrnaiad/weebpage/assets/99702949/41fc1b22-fc08-40b5-80c7-e2c713c50625)
 <p align = "center">
-This project contains a short "about me" section that introduces the "different parts" of me. <br>
+This project contains a short "about me" section that introduces the "different parts" of me.
 At the time of writing this documentation (2 years later), I find it a bit cringe now but for the sake of preservation I'll keep it as is.
-</p>
 
 
 ## Carousels
 ### This project contains two interactible carousels which can be interacted using the arrow icons (<) and (>).
 ![carousel1](https://github.com/lirrnaiad/weebpage/assets/99702949/32da6891-0d6d-460f-b001-4c7ec6a0a4f6)
-<p align = "center">
 The first carousel at the top is a slideshow of my top 5 anime (at the time). <br>
 This carousel will auto-move after 5 seconds and move to the next image. <br>
-</p>
 <br>
 
 ![carousel2](https://github.com/lirrnaiad/weebpage/assets/99702949/78ae8537-4d23-49ae-a5f2-238ad2905a7b)
-<p align = "center">
 The second carousel at the bottom is a slide of the current seasonal anime at the time of creating this project (May 2022). <br>
 <b>You can click on the images on both carousels and it will redirect to their respective MyAnimeList pages.</b>
-</p>
 
 
 ## (Not So Latest) News
 ![news1](https://github.com/lirrnaiad/weebpage/assets/99702949/574e4ba2-dd4a-44f2-9eb2-8a9ddd038e39)
 ![news2](https://github.com/lirrnaiad/weebpage/assets/99702949/4ab3ef0e-72a1-4655-89a9-698ddd8bc6df)
-<p align = "center">
 This project contains two news articles I considered at the time of making this project very exciting. <br>
 2 years later, they're unfortunately still not finished yet. <br>
 I look forward to them up to this day, though!
-</p>
 
 </details>
