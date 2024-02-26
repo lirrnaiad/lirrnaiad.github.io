@@ -7,9 +7,6 @@ Since the important part is applying what we've learned in our class (HTML only,
 <br>
 Written and edited using Sublime Text 3
 
-<details>
-<summary> <h1> Opening this in your own browser</h1> </summary>
-
 ## Compatibility
 This project was made for desktop (PC and Laptop) viewing only! <br>
 This website will break in mobile and tablet.
@@ -19,24 +16,6 @@ Browsers in which this project will work include:
 * Microsoft Edge
 * Brave
 * Mozilla Firefox
-
-## Downloading the assets
-1. Open this repository (If you're seeing this, you probably already did). <br>
-2. At the right side of the page, click on **"Webpage"** on the Releases section below the About section.
-![howto-1](https://github.com/lirrnaiad/weebpage/assets/99702949/ef7a89b4-58e5-4975-9425-c609b9141434)
-3. Under **Assets**, click on **"webpage.zip"**. This will download the assets to your computer. The files are safe and in no way contain malicious content.
-![howto-2](https://github.com/lirrnaiad/weebpage/assets/99702949/fb5a1f5b-5131-4dda-97a3-ddf8df39d8b9)
-4. Once the download is finished, open your file explorer. Right click on the file and click **"Extract All"**.
-![howto-3](https://github.com/lirrnaiad/weebpage/assets/99702949/4b287e62-54d4-4319-8cb7-66a66b6c0622)
-5. Choose where you want to extract the files, then click **"Extract"**.
-![howto-4](https://github.com/lirrnaiad/weebpage/assets/99702949/0aac269c-1514-47fb-8e63-c928fc560036)
-6. Once the files have been extracted, open the extracted folder and open **"index.html"**
-![howto-5](https://github.com/lirrnaiad/weebpage/assets/99702949/1f932b52-cf5f-417f-bfda-f9e28ac7ac27)
-
-**OPTIONAL** <br>
-Instead of opening it right away, you can open **index.html** with Google Chrome, which will ensure full functionality.
-![howto-6](https://github.com/lirrnaiad/weebpage/assets/99702949/854197f4-f83e-47e2-a420-6313f2ec3984)
-
 </details>
 
 <details>
