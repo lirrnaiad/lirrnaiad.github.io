@@ -1,4 +1,5 @@
 # A webpage about me, my favorite anime, and video games.
+Open the website here: https://lirrnaiad.github.io/
 ### **Made as a project for Empowerment Technology in Grade 11** <br>
 ![project-info](https://github.com/lirrnaiad/weebpage/assets/99702949/560c849d-413e-446a-99cc-8e7f087dc1af)
 
