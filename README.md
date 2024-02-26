@@ -9,7 +9,7 @@ Written and edited using Sublime Text 3
 
 ## Compatibility
 This project was made for desktop (PC and Laptop) viewing only! <br>
-This website will break in mobile and tablet.
+This website will most likely break in mobile and tablet.
 
 Browsers in which this project will work include:
 * Google Chrome (recommended)
